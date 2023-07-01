@@ -1,11 +1,15 @@
 ## Hi, I'm Yuhei Arimoto 👋 👨‍💻
-- 🏫 I'm a third-year Computer Science & Software Engineer student at the University of British Columbia
+🏫 I'm a third-year Computer Science & Software Engineer student at the University of British Columbia
   
-- 🔭 I'm a Software Engineer from 🇯🇵 Chiba, Japan, currently living in 🇨🇦 Vancouver, Canada
+🔭 I'm a Software Engineer from 🇯🇵 Chiba, Japan, currently living in 🇨🇦 Vancouver, Canada
 
-- 📫 How to reach me:
-  <br><a href="https://www.linkedin.com/in/yuhei-arimoto-28aa841b3/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" margin-top="50px"/>
+📫 How to reach me:
+
+<a href="https://www.linkedin.com/in/yuhei-arimoto-28aa841b3/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
+<a href="mailto:yuhei61627@icloud.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <!--
