@@ -1,4 +1,4 @@
-## Hi, I'm Yuhei Arimoto 👋 👨‍💻
+# Hi, I'm Yuhei Arimoto 👋 👨‍💻
 🏫 I'm a third-year Computer Science & Software Engineer student at the University of British Columbia
   
 🔭 I'm a Software Engineer from 🇯🇵 Chiba, Japan, currently living in 🇨🇦 Vancouver, Canada
@@ -11,6 +11,52 @@
 <a href="mailto:yuhei61627@icloud.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
+# 🛠 Technologies & Tools
+<table>
+  <tr>
+    <td align="center" height="100" width="100">
+      <img src="https://skillicons.dev/icons?i=ts">
+      <br /><strong>TypeScript</strong>
+    </td>
+    <td align="center" height="100" width="100">
+      <img src="https://skillicons.dev/icons?i=java">
+      <br /><strong>Java</strong>
+    </td>
+    <td align="center" height="100" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs">
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="100" width="100">
+      <img src="https://skillicons.dev/icons?i=html">
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" height="100" width="100">
+      <img src="https://skillicons.dev/icons?i=css">
+      <br /><strong>CSS</strong>
+    </td>
+    <td align="center" height="100" width="100">
+      <img src="https://skillicons.dev/icons?i=cpp">
+      <br /><strong>C++</strong>
+    </td>
+    <td align="center" height="100" width="100">
+      <img src="https://skillicons.dev/icons?i=express">
+      <br /><strong>Express.js</strong>
+    </td>
+    <td align="center" height="100" width="100">
+      <img src="https://skillicons.dev/icons?i=react">
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="100" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql">
+      <br /><strong>MySQL</strong>
+    </td>
+    <td align="center" height="100" width="100">
+      <img src="https://skillicons.dev/icons?i=git">
+      <br /><strong>Git</strong>
+    </td>
+  </tr>
+</table>
 
 <!--
 **yuheiarimoto616/yuheiarimoto616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
