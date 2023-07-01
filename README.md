@@ -40,6 +40,10 @@
       <br /><strong>C++</strong>
     </td>
     <td align="center" height="100" width="100">
+      <img src="https://skillicons.dev/icons?i=php">
+      <br /><strong>PHP</strong>
+    </td>
+    <td align="center" height="100" width="100">
       <img src="https://skillicons.dev/icons?i=express">
       <br /><strong>Express.js</strong>
     </td>
@@ -51,12 +55,11 @@
       <img src="https://skillicons.dev/icons?i=mysql">
       <br /><strong>MySQL</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img src="https://skillicons.dev/icons?i=git">
-      <br /><strong>Git</strong>
-    </td>
   </tr>
 </table>
+
+# Stats 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuheiarimoto616&size_weight=0.5&count_weight=0.5&exclude_repo=stat201-group-32,toy_ds_project&layout=donut">
 
 <!--
 **yuheiarimoto616/yuheiarimoto616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
