@@ -60,10 +60,10 @@
 
 # 📈 Stats 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuheiarimoto616&size_weight=0.5&count_weight=0.5&exclude_repo=stat201-group-32,toy_ds_project&layout=donut" height="220px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuheiarimoto616&size_weight=0.5&count_weight=0.5&exclude_repo=stat201-group-32,toy_ds_project&layout=donut" height="200px"
 />
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=yuheiarimoto616" height="220px"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=yuheiarimoto616" height="200px"
 />
 
 <!--
