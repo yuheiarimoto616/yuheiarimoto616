@@ -1,7 +1,7 @@
 # Hi, I'm Yuhei Arimoto 👋 👨‍💻
 🏫 I'm a third-year Computer Science & Software Engineer student at the University of British Columbia
   
-🔭 I'm a Software Engineer from 🇯🇵 Chiba, Japan, currently living in 🇨🇦 Vancouver, Canada
+🔭 I'm a Software Engineer from Chiba, Japan 🇯🇵 , currently living in Vancouver, Canada 🇨🇦
 
 📫 How to reach me:
 
