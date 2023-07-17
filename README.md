@@ -8,11 +8,11 @@
 <a href="https://www.linkedin.com/in/yuhei-arimoto-28aa841b3/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
-<a href="mailto: yuhei61627@icloud.com">
+<a href="mailto:yuhei61627@icloud.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-# 🛠 Technologies & Tools
+# 🛠 Tech Stack
 <table>
   <tr>
     <td align="center" height="100" width="100">
