@@ -3,6 +3,8 @@
   
 🔭 I'm a Software Engineer from Chiba, Japan 🇯🇵 , currently living in Vancouver, Canada 🇨🇦
 
+🌱 I’m currently learning Django
+
 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/yuhei-arimoto-28aa841b3/" target="_blank">
