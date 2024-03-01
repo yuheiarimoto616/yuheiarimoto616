@@ -55,6 +55,10 @@
       <img src="https://skillicons.dev/icons?i=mysql">
       <br /><strong>MySQL</strong>
     </td>
+    <td align="center" height="100" width="100">
+      <img src="https://skillicons.dev/icons?i=nestjs">
+      <br /><strong>NestJS</strong>
+    </td>
   </tr>
 </table>
 
